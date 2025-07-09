@@ -1,5 +1,5 @@
-#🚗 Real-Time Dynamic Parking Price Prediction
-##This project simulates real-time pricing for smart parking lots using streamed data. It uses Pathway to handle simulated data streaming and applies pricing logic ##based on queue length, time features, and external factors like traffic and special events.
+🚗 Real-Time Dynamic Parking Price Prediction
+This project simulates real-time pricing for smart parking lots using streamed data. It uses Pathway to handle simulated data streaming and applies pricing logic based on queue length, time features, and external factors like traffic and special events.
 
 <br/>
 📊 Problem Statement
